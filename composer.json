@@ -1,0 +1,22 @@
+{
+    "name": "taufiqmtrs/oop-praktikum-8",
+    "description": "UTS PBWL Ganjl M Taufiq Rachman Siregar",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "taufiqmtrs",
+            "email": "taufiqmtrs@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+
+}
+
+
